@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="Pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="listacomeia.css">
+    <title>Tarefas</title>
+</head>
+<body>
+
+  
+    <form>
+        <h1>Lista de Tarefas</h1>
+
+        <p>A seguir preencha os dados a respeito da sua tarefa:</p>
+        <br>
+        <label class= "sr-only"for= "inicio-id"></label>
+        <input type="number"id="inicio-id" placeholder="cadastro">
+        
+        <br><br>
+
+        <label class= "sr-only"for= "inicio-id"></label>
+        <input type="date"id="inicio-id" placeholder="data">
+       
+        <br><br>
+
+        <label class= "sr-only"for= "inicio-id"></label>
+        <input type="text"id="inicio-id" placeholder="descrição">
+        <br><br>
+    
+    </form>
+
+    <div>
+        <a href="file:///C:/Users/jheni/OneDrive/%C3%81rea%20de%20Trabalho/sla.html"><button>Enviar dados</button></a>
+    </div>
+
+
+</body>
+</html>
